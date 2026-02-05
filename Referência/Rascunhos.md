@@ -1,11 +1,3 @@
-// 3
-Cone 4
-Diâmetro 1
-Míssil 6
-Ponto 3
-Retaliar 5
-Rastro 2
-
 // 4
 Área 3
 Rebote 4 
