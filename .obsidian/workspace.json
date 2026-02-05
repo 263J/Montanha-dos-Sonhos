@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "235e88681311ad34",
+        "id": "a12f47b7f1afaaa2",
         "type": "tabs",
         "children": [
           {
-            "id": "2981e5969d093855",
+            "id": "9645806fb82e0a6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Runas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Runas"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Imagens/Pasted image 20260204233101.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Pasted image 20260204233101"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Imagens/Pasted image 20260204233101.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Pasted image 20260204233101"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Imagens/Pasted image 20260204233101.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20260204233101"
             }
           }
         ]
@@ -176,8 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "2981e5969d093855",
+  "active": "9645806fb82e0a6f",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Ficha.md",
+    "Imagens/Pasted image 20260204233101.png",
+    "Runas.md",
+    "Imagens/Sem título.png",
+    "Pasted image 20260205002414.png",
+    "Pasted image 20260205002314.png",
+    "Imagens",
+    "Glifos"
   ]
 }
