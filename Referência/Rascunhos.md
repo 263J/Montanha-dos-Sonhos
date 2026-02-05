@@ -1,9 +1,3 @@
-// 4
-Área 3
-Rebote 4 
-Resposta 1 
-Seguir 2 
-
 // 5
 Individual 3
 Local 2
