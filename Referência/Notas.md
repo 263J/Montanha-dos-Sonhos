@@ -32,6 +32,8 @@ Intangível 3 // Efeito
 Bloco 2 // Efeito
 Quebra 1 // Efeito
 
+Existência // Condição
+Servidão // Condição
 
 redundância no acerto em si mesmo
 redundância no X e Y// o custo mínimo de uma runa é 1

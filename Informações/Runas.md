@@ -1,8 +1,14 @@
-O Fluxo de runas para uma magia é:
+O Fluxo de **Runas** para a criação de um **Feitiço** é:
 
-**1 Forma → X Causas e/ou Efeitos → (X Modificações e/ou Condições)**
+**1 Forma → 1 ou mais Causas → X Efeitos**
 
 **Observação**: **Forma** é obrigatório em uma magia, e somente uma, além do mínimo ter pelo menos uma **Causa** ou **Efeito**, que podem ser vários.
+
+E o fluxo de edição de **Runas** é:
+
+**Runa → Modificação**
+
+**Observação**: a **Modificação** é sempre ao lado direito de uma **Runa** que não seja de **Modificação**.
 
 # Forma
 
@@ -19,7 +25,3 @@ O Fluxo de runas para uma magia é:
 # Modificação
 
 É um tipo de runa que amplifica ou altera as propriedades de uma magia.
-
-# Condição
-
-É um tipo de runa que tudo a partir dela acontece após uma condição específica.

@@ -1,39 +1,33 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/// Causa
+/// Causa (Quase feito)
 //
 
 // 1
+Ataque
+Empurrar
 
 // 2
+Fatal
+Puxar
 
 // 3
-
-// 4
-
-// 5
-
-// 6
-
-// X
-Dissipar
-Ataque
-Puxão
-Empurrar
-Fusão
-Lançar
-Pular
-Quebra
+Cura
 Mover
 
-Ambiguidade
-Cura
-Dados
+// 4
+Dissipar
+Instável
 
+// 5
+Exaurir
+Lançar
+
+// 6
 Reposição
-Lampejo
+Teletransporte
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/// Efeito
+/// Efeito (Quase feito)
 //
 
 // 1
@@ -69,45 +63,18 @@ Imune
 Medo
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/// Modificação
+/// Modificação ()
 //
 
 // 1
-
-// 2
-
-// 3
-
-// 4
-
-// 5
-
-// 6
-
-// X
 Atraso
-Amplificar
-Aleatório
-
-Precisão
-Sorte
-Estender
-Encurtar
-Perfurar
-
-Redor
-Sorte
-Morte
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/// Condição
-//
-
-// 1
 
 // 2
+Aleatório
+Reduzir
 
 // 3
+Amplificar
 
 // 4
 
@@ -116,9 +83,21 @@ Morte
 // 6
 
 // X
+
 Aliança
-Discórdia
-Existência
-Servidão
-Individualidade
-Não
+Individuo
+Escolha
+Vital
+Inspirar
+Corrida
+
+Não / só em **Modificações**
+
+Rodear / efeito
+Executar / efeito
+Drenar / causa
+
+Lampejo / Só em **Forma**
+Canalização / Só em **Forma**
+Precisão / Só em **Forma**
+Sorte / Só em **Forma**
