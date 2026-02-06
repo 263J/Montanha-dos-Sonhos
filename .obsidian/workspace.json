@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Runas/Forma.md",
+                "file": "Runas/Modificação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forma"
+              "title": "Modificação"
             }
           }
         ]
@@ -203,19 +203,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc61105c6913ecbf",
+  "active": "b0e6a4ef134ec61f",
   "lastOpenFiles": [
-    "Referência/Rascunhos.md",
+    "Runas/Modificação.md",
     "Runas/Forma.md",
     "Runas/Efeito.md",
     "Runas/Condição.md",
-    "Runas/Modificação.md",
     "Runas/Causa.md",
-    "Referência/Imagens/Pasted image 20260205235018.png",
+    "Referência/Runa Exemplo.md",
+    "Referência/Rascunhos.md",
     "Referência/Imagens/Sem título.png",
+    "Referência/Imagens/Pasted image 20260205235018.png",
     "Referência/Imagens/Pasted image 20260204233101.png",
     "Informações/Runas.md",
-    "Referência/Runa Exemplo.md",
     "Pasted image 20260205171731.png",
     "Pasted image 20260205171755.png",
     "Referência/Runas inexistentes.md",
