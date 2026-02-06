@@ -1,6 +1,6 @@
 O Fluxo de runas para uma magia é:
 
-**1 Forma → X Causa e/ou Efeito → (X Modificação e/ou Condição)**
+**1 Forma → X Causas e/ou Efeitos → (X Modificações e/ou Condições)**
 
 **Observação**: **Forma** é obrigatório em uma magia, e somente uma, além do mínimo ter pelo menos uma **Causa** ou **Efeito**, que podem ser vários.
 
