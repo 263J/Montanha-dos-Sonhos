@@ -19,6 +19,7 @@ Dissipar
 Instável
 
 // 5
+Drenar
 Exaurir
 Lançar
 
@@ -55,49 +56,39 @@ Atordoamento
 Desgaste
 Necrose
 Proteção
+Rodear
 
 // 6
 Controle
+Executar
 Expor
 Imune
 Medo
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/// Modificação ()
+/// Modificação (Quase feito)
 //
 
 // 1
+Aleatório
 Atraso
 
 // 2
-Aleatório
-Reduzir
+Amplificar
+Canalização / Só em **Forma**
 
 // 3
-Amplificar
+Inversão / só em **Modificações** / incompatível com **Aleatório**, **Atraso**, **Canalização**, **Lampejo**
+Vital
 
 // 4
+Individuo
+Precisão / Só em **Forma**
 
 // 5
+Aliança
+Sorte / Só em **Forma**
 
 // 6
-
-// X
-
-Aliança
-Individuo
 Escolha
-Vital
-Inspirar
-Corrida
-
-Não / só em **Modificações**
-
-Rodear / efeito
-Executar / efeito
-Drenar / causa
-
 Lampejo / Só em **Forma**
-Canalização / Só em **Forma**
-Precisão / Só em **Forma**
-Sorte / Só em **Forma**
