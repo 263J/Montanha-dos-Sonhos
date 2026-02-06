@@ -11,3 +11,5 @@
 **Pontos de Energia**: 0/0.
 
 **Pontos de Ataque**: 0.
+
+**Velocidade**: 0.
