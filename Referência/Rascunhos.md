@@ -4,7 +4,7 @@
 
 // 1
 Ataque
-Empurrar
+Sopro
 
 // 2
 Fatal

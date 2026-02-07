@@ -1,41 +1,29 @@
 # Primeiro Nível
-### Runa
 
-**Custa** X pontos de **Energia**.
+### Ataque
 
-Descrição.
+**Custa** 2 pontos de **Energia**.
+
+O Feitiço causa **Dano** igual ao seu **Ataque** aos **Seres** afetados.
+
+### Sopro
+
+**Custa** 4 pontos de **Energia**.
+
+O Feitiço empurra os **Seres** afetados em uma linha reta para uma direção oposta de você e em 2 metros.
 
 # Segundo Nível
-### Runa
+
+### Fatal
 
 **Custa** X pontos de **Energia**.
 
-Descrição.
+Escolha um tipo de **Dado**, entre **d4**, **d6**, **d8**, **d10**, **d12**, **d20** e **d100**. O Feitiço causa **Dano** igual ao valor do **Dado** escolhido aos **Seres** afetados.
 
-# Terceiro Nível
-### Runa
+**X** é (metade das faces do **Dado**) - 1.
 
-**Custa** X pontos de **Energia**.
+### Puxar
 
-Descrição.
+**Custa** 5 pontos de **Energia**.
 
-# Quarto Nível
-### Runa
-
-**Custa** X pontos de **Energia**.
-
-Descrição.
-
-# Quinto Nível
-### Runa
-
-**Custa** X pontos de **Energia**.
-
-Descrição.
-
-# Sexto Nível
-### Runa
-
-**Custa** X pontos de **Energia**.
-
-Descrição.
+O Feitiço puxa os **Seres** afetados em uma linha reta para a sua direção em 3 metros.

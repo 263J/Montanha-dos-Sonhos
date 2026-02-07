@@ -40,3 +40,5 @@ redundância no X e Y// o custo mínimo de uma runa é 1
 É sempre arredondado para baixo
 
 Proximidade modificador
+
+Atributos base são 2, inicial para distribuir é 8, nenhum pode passar de 8.

@@ -4,12 +4,17 @@
 
 **Apelido**: Texto.
 
+**História**: Texto.
+
 # Atributos
 
 **Pontos de Vida**: 0/0.
 
 **Pontos de Energia**: 0/0.
 
-**Pontos de Ataque**: 0.
+**Primários**:
 
-**Velocidade**: 0.
+- **Ataque**: 0.
+- **Domínio**: 0.
+- **Velocidade**: 0.
+- **Vitalidade**: 0.

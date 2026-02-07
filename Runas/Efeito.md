@@ -1,40 +1,32 @@
 # Primeiro Nível
-### Runa
+
+### Acelerar
+
+**Custa** X pontos de **Energia**.
+
+Descrição.
+
+### Lentidão
 
 **Custa** X pontos de **Energia**.
 
 Descrição.
 
 # Segundo Nível
-### Runa
+
+### Enraizamento
 
 **Custa** X pontos de **Energia**.
 
 Descrição.
 
-# Terceiro Nível
-### Runa
+### Fortalecer
 
 **Custa** X pontos de **Energia**.
 
 Descrição.
 
-# Quarto Nível
-### Runa
-
-**Custa** X pontos de **Energia**.
-
-Descrição.
-
-# Quinto Nível
-### Runa
-
-**Custa** X pontos de **Energia**.
-
-Descrição.
-
-# Sexto Nível
-### Runa
+### Sangue
 
 **Custa** X pontos de **Energia**.
 
