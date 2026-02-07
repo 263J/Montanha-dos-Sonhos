@@ -4,87 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f62e26ecf6c91a5f",
+        "id": "27b520fa14e50b31",
         "type": "tabs",
         "children": [
           {
-            "id": "5bf7855750a0f679",
+            "id": "ddd56d88ea961be2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Runas/Modificação.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Modificação"
+              "title": "New tab"
             }
           }
         ]
-      },
-      {
-        "id": "58f97d6d806b2380",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7b3af316776e4ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Referência/Rascunhos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rascunhos"
-            }
-          },
-          {
-            "id": "99fb60e28d0442bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Runas/Forma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forma"
-            }
-          },
-          {
-            "id": "ce3359c04cb50ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Runas/Causa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Causa"
-            }
-          },
-          {
-            "id": "b576b88ebaa7f543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Runas/Efeito.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Efeito"
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,16 +179,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "b576b88ebaa7f543",
+  "active": "ddd56d88ea961be2",
   "lastOpenFiles": [
+    "Runas/Efeito.md",
     "Runas/Causa.md",
     "Runas/Forma.md",
-    "Runas/Efeito.md",
     "Runas/Modificação.md",
     "Referência/Notas.md",
+    "Informações/Runas.md",
     "Referência/Rascunhos.md",
     "Referência/Runa Exemplo.md",
-    "Informações/Runas.md",
     "Informações/Ficha Base.md",
     "Runas/Condição.md",
     "Referência/Imagens/Sem título.png",

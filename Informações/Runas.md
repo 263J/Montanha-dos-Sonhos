@@ -8,7 +8,7 @@ E o fluxo de edição de **Runas** é:
 
 **Runa → Modificação**
 
-**Observação**: a **Modificação** é sempre ao lado direito de uma **Runa** que não seja de **Modificação**.
+**Observação**: a **Runa** de **Modificação** é sempre ao lado direito de uma **Runa** que não seja de **Modificação**.
 
 # Forma
 

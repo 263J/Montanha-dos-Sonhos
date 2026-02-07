@@ -2,28 +2,36 @@
 
 ### Aleatório
 
-**Custa** X pontos de **Energia**.
+**Custa** 1 ponto de **Energia**.
 
-Descrição.
+Modifica a **Runa** esquerda a adicionando propriedades aleatórias. 
+
+Em runas de **Forma**, ao invés de o **Feitiço** ser aplicado em todos os **Seres** é aplicado em apenas um **Ser** aleatório entre eles. Em **Runas** de **Efeito** pode dobrar ou reduzir pela metade sua duração, e em **Runas** de **Causa** pode dobrar ou reduzir pela metade sua funcionalidade.
 
 ### Atraso
 
-**Custa** X pontos de **Energia**.
+**Custa** 1 ponto de **Energia**.
 
-Descrição.
+Só pode modificar **Runas** de **Forma**, sendo adicionado a sua direita.
+
+O **Feitiço**, mesmo que conjurado neste **Turno**, só será realizado no próximo **Turno**. O **Custo** do **Feitiço** inteiro, com exceção desta **Runa**, será cortado pela metade.
 
 # Segundo Nível
 
 ### Amplificar
 
-**Custa** X pontos de **Energia**.
+**Custa** 2 pontos de **Energia**.
 
-Descrição.
+Modifica a **Runa** esquerda dobrando todos seus valores, desde **Efeitos**, **Dano**, **Distância** a também **Custos**.
 
 ### Canalização
 
-**Custa** X pontos de **Energia**.
+**Custa** 3 pontos de **Energia**.
 
-Descrição.
+Só pode modificar **Runas** de **Forma**, sendo adicionado a sua direita.
 
- Só em **Forma**
+Ao invés de conjurar o **Feitiço** normalmente, ele agora é divido em 3 **Turnos** contando com o atual. Para a **Canalização** ser completa você não pode agir, ser movido ou receber algum **Efeito Debilitante** que não o permita jogar durante esses **Turnos**.
+
+No começo de cada um desses **Turnos** um terço da parcela de **Energia** é paga. Cada parcela tem que ser sempre igual a anterior no mesmo **Feitiço**, se não toda a **Canalização** será cancelada.
+
+O **Feitiço** ocorre no fim do último **Turno**.
