@@ -2,14 +2,6 @@
 /// Causa (Quase feito)
 //
 
-// 1
-Ataque
-Sopro
-
-// 2
-Fatal
-Puxar
-
 // 3
 Cura
 Mover
@@ -31,28 +23,19 @@ Teletransporte
 /// Efeito (Quase feito)
 //
 
-// 1
-Acelerar
-Lentidão
-
-// 2
-Enraizamento
-Fortalecer
-Sangue
-
 // 3
-Banimento
 Enfraquecer
 Regenerar
+Sono
 
 // 4
+Atordoamento
 Barreira
 Concentrar
 Rodear
-Sono
 
 // 5
-Atordoamento
+Banimento
 Desgaste
 Necrose
 Proteção
@@ -67,14 +50,6 @@ Medo
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /// Modificação (Quase feito)
 //
-
-// 1
-Aleatório
-Atraso
-
-// 2
-Amplificar
-Canalização / Só em **Forma**
 
 // 3
 Inversão / só em **Modificações** / incompatível com **Aleatório**, **Atraso**, **Canalização**, **Lampejo**

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27b520fa14e50b31",
+        "id": "107962a6e912b7d5",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd56d88ea961be2",
+            "id": "c011dc924a543767",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "99. Referências/Rascunhos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rascunhos"
             }
           }
         ]
@@ -179,31 +183,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "ddd56d88ea961be2",
+  "active": "41b7c68a4e4a0a17",
   "lastOpenFiles": [
-    "Runas/Efeito.md",
-    "Runas/Causa.md",
-    "Runas/Forma.md",
-    "Runas/Modificação.md",
-    "Referência/Notas.md",
-    "Informações/Runas.md",
-    "Referência/Rascunhos.md",
-    "Referência/Runa Exemplo.md",
-    "Informações/Ficha Base.md",
+    "99. Referências/Notas.md",
+    "3. Runas/Modificação.md",
+    "3. Runas/Forma.md",
+    "3. Runas/Efeito.md",
+    "3. Runas/Causa.md",
+    "2. Mecânicas/Runas.md",
+    "99. Referências/Rascunhos.md",
+    "2. Mecânicas/Interpretação.md",
+    "2. Mecânicas/1. Atributos.md",
+    "2. Mecânicas/Criação de Personagem.md",
+    "1. Informações/1. O que é Montanha dos Sonhos.md",
+    "1. Informações/3. Ficha Exemplo.md",
+    "1. Informações/2. Ficha Base.md",
+    "99. Referências/Runa Exemplo.md",
+    "2. Mecânicas",
     "Runas/Condição.md",
-    "Referência/Imagens/Sem título.png",
-    "Referência/Imagens/Pasted image 20260205235018.png",
-    "Referência/Imagens/Pasted image 20260204233101.png",
+    "99. Referências/Imagens/Sem título.png",
+    "99. Referências/Imagens/Pasted image 20260205235018.png",
+    "99. Referências/Imagens/Pasted image 20260204233101.png",
     "Pasted image 20260205171731.png",
     "Pasted image 20260205171755.png",
     "Referência/Runas inexistentes.md",
     "Rascunhos",
-    "Informações",
-    "Referência",
-    "Runas",
+    "1. Informações",
+    "99. Referências",
+    "3. Runas",
     "Pasted image 20260205002414.png",
     "Pasted image 20260205002314.png",
-    "Referência/Imagens",
+    "99. Referências/Imagens",
     "Glifos"
   ]
 }

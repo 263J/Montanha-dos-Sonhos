@@ -24,4 +24,4 @@ E o fluxo de edição de **Runas** é:
 
 # Modificação
 
-É um tipo de runa que amplifica ou altera as propriedades de uma magia.
+É um tipo de runa que altera as propriedades de uma outra **Runa**.

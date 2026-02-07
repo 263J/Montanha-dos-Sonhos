@@ -32,7 +32,7 @@ Você pode escolher aplicar qualquer **Feitiço** seu com a **Forma** de **Armad
 
 **Custa** 5 pontos de **Energia**.
 
-O **Feitiço** é aplicado no lugar onde você estava antes da sua última **Ação** de **Movimento**, e também é aplicado ao redor desse local (você pode ser afetado).
+O **Feitiço** é aplicado no lugar onde você estava antes da sua última **Ação** de **Movimento**, e também é aplicado ao redor desse local.
 
 ### Linha
 

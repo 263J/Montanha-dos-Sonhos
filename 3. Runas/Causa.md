@@ -10,7 +10,7 @@ O Feitiço causa **Dano** igual ao seu **Ataque** aos **Seres** afetados.
 
 **Custa** 4 pontos de **Energia**.
 
-O Feitiço empurra os **Seres** afetados em uma linha reta para uma direção oposta de você e em 2 metros.
+O Feitiço empurra os **Seres** afetados em uma linha reta para uma direção oposta de você em 2 metros.
 
 # Segundo Nível
 
