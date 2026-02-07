@@ -48,7 +48,7 @@ Regenerar
 // 4
 Barreira
 Concentrar
-Esquecer
+Rodear
 Sono
 
 // 5
@@ -56,7 +56,6 @@ Atordoamento
 Desgaste
 Necrose
 Proteção
-Rodear
 
 // 6
 Controle

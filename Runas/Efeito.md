@@ -2,32 +2,36 @@
 
 ### Acelerar
 
-**Custa** X pontos de **Energia**.
+**Custa** 2 pontos de **Energia**.
 
-Descrição.
+O Feitiço aplica 2 **Efeitos** de **Aumento** de **Velocidade** aos **Seres** afetados.
 
 ### Lentidão
 
-**Custa** X pontos de **Energia**.
+**Custa** 3 pontos de **Energia**.
 
-Descrição.
+O Feitiço aplica 2 **Efeitos** de **Redução** de **Velocidade** aos **Seres** afetados.
 
 # Segundo Nível
 
 ### Enraizamento
 
-**Custa** X pontos de **Energia**.
+**Custa** 7 pontos de **Energia**.
 
-Descrição.
+O Feitiço aplica 1 **Efeito** de **Enraizamento** aos **Seres** afetados.
+
+**Enraizamento** impede **Ações** de movimento do **Ser** afetado, além de também **Causas** e **Efeitos** que possam o mover.
 
 ### Fortalecer
 
-**Custa** X pontos de **Energia**.
+**Custa** 4 pontos de **Energia**.
 
-Descrição.
+O Feitiço aplica 2 **Efeitos** de **Aumento** de **Ataque** aos **Seres** afetados.
 
 ### Sangue
 
-**Custa** X pontos de **Energia**.
+**Custa** 5 pontos de **Energia**.
 
-Descrição.
+O Feitiço aplica 2 **Efeitos** de **Sangramento** aos **Seres** afetados.
+
+**Sangramento** causa **Dano** igual ao seu número de **Efeitos** no começo do **Turno** do **Ser** afetado.
