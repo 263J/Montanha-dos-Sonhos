@@ -1,5 +1,5 @@
-Custo de mana está uma bosta // Resolvido
-Causa Positiva // Resolvido
+Observação: sessão de 07/02/2026 
 
-Resistir // Voltar a precisão normal, mas por alvo ao invés de feitiço 
-Adicionar regeneração // Vamos tentar mais uma vez sem
+Custo de Energia está ruim // Resolvido
+Causa Positiva // Resolvido
+Resistir // Voltar a precisão normal, mas por alvo ao invés de feitiço

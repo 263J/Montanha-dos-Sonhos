@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8150c731369e430",
+        "id": "8d7e0ca01bda0da9",
         "type": "tabs",
         "children": [
           {
-            "id": "10fda51f91465016",
+            "id": "419593a5a25ece11",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,22 +179,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "10fda51f91465016",
+  "active": "41b7c68a4e4a0a17",
   "lastOpenFiles": [
-    "3. Runas/2. Causa.md",
+    "99. Desenvolvimento/Notas.md",
+    "9. Notas de Atualização/Atualização 0.1.1.md",
     "99. Desenvolvimento/Feedbacks/Crítica 1.md",
-    "3. Runas/1. Forma.md",
     "3. Runas/4. Modificação.md",
     "3. Runas/3. Efeito.md",
-    "99. Desenvolvimento/Notas.md",
+    "3. Runas/2. Causa.md",
+    "3. Runas/1. Forma.md",
+    "99. Desenvolvimento/Git.md",
+    "9. Notas de Atualização",
+    "99. Desenvolvimento/Rascunhos.md",
+    "99. Desenvolvimento/Imagens/hexagon-grid-seamless-pattern-white-geometric-structure-background-illustration-vector.jpg",
+    "99. Desenvolvimento/Imagens/Pasted image 20260204233101.png",
+    "99. Desenvolvimento/Imagens/Pasted image 20260205235018.png",
+    "99. Desenvolvimento/Imagens/Sem título.png",
     "2. Mecânicas/Efeitos.md",
     "2. Mecânicas/Criação de Feitiços.md",
-    "99. Desenvolvimento/Rascunhos.md",
     "99. Desenvolvimento/Runa Exemplo.md",
     "99. Desenvolvimento/Feedbacks",
     "1. Informações/3. Ficha Exemplo.md",
     "1. Informações/1. O que é Montanha dos Sonhos.md",
-    "99. Desenvolvimento/Imagens/hexagon-grid-seamless-pattern-white-geometric-structure-background-illustration-vector.jpg",
     "99. Referências/hexagon-grid-seamless-pattern-white-geometric-structure-background-illustration-vector.jpg",
     "hexagon-grid-seamless-pattern-white-geometric-structure-background-illustration-vector.jpg",
     "1. Informações/hexagon-grid-seamless-pattern-white-geometric-structure-background-illustration-vector.jpg",
@@ -210,9 +216,6 @@
     "Atributos.md",
     "2. Mecânicas",
     "Runas/Condição.md",
-    "99. Desenvolvimento/Imagens/Sem título.png",
-    "99. Desenvolvimento/Imagens/Pasted image 20260205235018.png",
-    "99. Desenvolvimento/Imagens/Pasted image 20260204233101.png",
     "Pasted image 20260205171731.png",
     "Pasted image 20260205171755.png",
     "Referência/Runas inexistentes.md",
@@ -221,7 +224,6 @@
     "99. Desenvolvimento",
     "3. Runas",
     "Pasted image 20260205002414.png",
-    "99. Desenvolvimento/Imagens",
-    "Glifos"
+    "99. Desenvolvimento/Imagens"
   ]
 }
