@@ -12,8 +12,12 @@ O fluxo de **Runas** para a criação de um **Feitiço** precisa sempre ser:
 
 Assim, as **Runas** de **Forma** são sempre obrigatórias em uma magia, e somente uma por **Feitiço**, além do mínimo ter pelo menos uma **Runa** de **Causa**.
 
+Cada **Runa** precisa **Custar** pelo menos 1 ponto de **Energia**, a menos que seja zerada por padrão. Se a **Runa** tiver alcance para acertar o conjurador também será aplicado em si como se fosse qualquer outro **Ser**.
+
 Existem **Runas** que podem modificar outras, seu fluxo de edição é:
 
 **Runa → Modificação**
 
 A **Runa** de **Modificação** é sempre aplicada ao lado direito de uma **Runa** que não seja de **Modificação**, assim alterando suas propriedades.
+
+**Observação**: **Custos** variáveis são decididos na conjuração do **Feitiço**, se tornando valores versáteis.
