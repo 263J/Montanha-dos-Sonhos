@@ -52,7 +52,8 @@ resistir apenas quando sem consentimento
 //
 
 Custo de mana está uma bosta
-Armadilha, sem alcance e problema com resistência
+Causa Positiva
 Resistir (briga de dados)
 Contra ataque
-Causa Positiva
+adicionar regeneração
+Armadilha, sem alcance e problema com resistência
