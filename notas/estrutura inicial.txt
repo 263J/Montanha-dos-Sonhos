@@ -1,0 +1,19 @@
+montanha_dos_sonhos/
+│
+├── main.py
+├── config.py
+│
+├── engine/
+│   ├── combat.py
+│   ├── character.py
+│   ├── world.py
+│
+├── ai/
+│   ├── narrator.py
+│   ├── interpreter.py
+│
+├── data/
+│   ├── npcs.json
+│   ├── monsters.json
+│
+└── saves/
