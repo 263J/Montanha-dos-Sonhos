@@ -2,21 +2,20 @@
 import subprocess
 import sys
 
-# Limpeza inicial
-subprocess.run("cls", shell=True)
-
 # Funções
+def limpar():
+    subprocess.run("cls", shell=True)
+
 def atacar():
-    print("Você atacou!")
+    Jogo.mensagem = "Você atacou!"
 
 def defender():
-    print("Você defendeu!")
+    Jogo.mensagem = "Você defendeu!"
 
 def correr():
-    print("Você fugiu!")
+    Jogo.mensagem = "Você fugiu!"
 
 def fechar():
-    print("Você fechou o jogo!")
     sys.exit()
 
 acoes = {
@@ -26,8 +25,17 @@ acoes = {
     "fechar": fechar
 }
 
+# Classes
+class Jogo:
+    mensagem = "Bem-vindo ao jogo!"
+
+# Limpeza inicial
+limpar()
+
 # Menu principal
 while True:
+
+    print(Jogo.mensagem)
 
     # Decisão
     acao = acoes.get(input("Escolha: ").lower())
@@ -39,4 +47,4 @@ while True:
         print("Ação inválida!")
     
     # Limpeza Final
-    #subprocess.run("cls", shell=True)
+    limpar()
