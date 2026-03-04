@@ -37,6 +37,4 @@ Proximidade // Modificação
 /// Lembrar
 //
 
-Atributos base são 2, inicial para distribuir é 8, nenhum pode passar de 8.
-1 de cada efeito é removido no fim do turno do ser
-resistir apenas quando sem consentimento
+Resistir apenas quando sem consentimento
