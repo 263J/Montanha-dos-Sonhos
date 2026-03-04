@@ -5,7 +5,7 @@ import subprocess
 subprocess.run("cls", shell=True)
 
 # Variáveis
-finalizado = False
+menu = "menu"
 
 # Funções
 def atacar():
@@ -17,29 +17,27 @@ def defender():
 def correr():
     print("Você fugiu!")
 
-def fechar():
-    global finalizado
-    print("Você Fechou!")
-    finalizado = True
-
 acoes = {
     "atacar": atacar,
     "defender": defender,
-    "correr": correr,
-    "fechar": fechar
+    "correr": correr
 }
 
 # Laço principal
-while not finalizado:
+while True:
 
     # Decisão
-    opcao = input("Escolha: ")
+    escolha = input("Escolha: ").lower()
+    acao = acoes.get(escolha)
 
-    acao = acoes.get(opcao)
+    if escolha == "fechar":
+        break
+
     if acao:
         acao()
+
     else:
-        print("Opção inválida")
+        print("Ação inválida!")
     
     # Limpeza Final
     #subprocess.run("cls", shell=True)

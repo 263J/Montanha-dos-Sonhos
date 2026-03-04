@@ -8,7 +8,7 @@ def narrar(texto):
     response = ollama.chat(
         model="mistral",
         messages=[
-            {"role": "system", "content": "Você é um narrador de RPG medieval sombrio."},
+            {"role": "system", "content": "Você é um narrador de RPG medieval sombrio, use menos de 20 palavras para escrever, seja detalhista e apenas narre o ocorrido."},
             {"role": "user", "content": texto}
         ]
     )
