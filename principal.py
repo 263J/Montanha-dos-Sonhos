@@ -44,7 +44,7 @@ while True:
         acao()
 
     else:
-        print("Ação inválida!")
+        Jogo.mensagem = "Ação Inválida!"
     
     # Limpeza Final
     limpar()
